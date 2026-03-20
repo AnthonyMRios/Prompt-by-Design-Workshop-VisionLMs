@@ -1,0 +1,13 @@
+{
+  "shell_port": 49573,
+  "iopub_port": 57399,
+  "stdin_port": 34339,
+  "control_port": 33465,
+  "hb_port": 39553,
+  "ip": "127.0.0.1",
+  "key": "ad580e7c-7a8a2e30da238fcd41d56a3d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter-arios/Untitled.ipynb"
+}

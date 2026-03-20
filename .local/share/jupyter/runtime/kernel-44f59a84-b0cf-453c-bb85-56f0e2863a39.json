@@ -1,0 +1,13 @@
+{
+  "shell_port": 54927,
+  "iopub_port": 33791,
+  "stdin_port": 51179,
+  "control_port": 52917,
+  "hb_port": 60055,
+  "ip": "127.0.0.1",
+  "key": "d53522c4-52c151af561b03912427c39b",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter-arios/2_Basic_Vision_Prompt_Structure.ipynb"
+}

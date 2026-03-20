@@ -1,0 +1,13 @@
+{
+  "shell_port": 39245,
+  "iopub_port": 59327,
+  "stdin_port": 41719,
+  "control_port": 51555,
+  "hb_port": 55433,
+  "ip": "127.0.0.1",
+  "key": "24bd8f89-dfba52e42565e774c4850708",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter-arios/3_Vision_Prompting_Strategies.ipynb"
+}
